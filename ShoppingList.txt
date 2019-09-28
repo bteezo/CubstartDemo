@@ -1,0 +1,5 @@
+1. eggs
+2. bread
+3. cheese
+4. milk
+5. meat
